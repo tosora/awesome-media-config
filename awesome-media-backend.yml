@@ -25,6 +25,6 @@ spring:
 #  logging:
 #      file: log/spring.log
     
-name: tosora   
+name: tosora-edited
     
     
