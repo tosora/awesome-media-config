@@ -1,6 +1,6 @@
 spring:
   application:
-    name: awesome-media-localhost
+    name: awesome-media-backend
   datasource:
     initialize: true
     platform: h2
